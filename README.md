@@ -70,3 +70,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 # Demo Gold App "demogold"
 Desarrollar un sistema que cubra todas las necesidades mínimas básicas y completas que sean requeridas.
+
+## Información sobre la Licencia de este proyecto
+Este proyecto no cuenta con ningún tipo de Licencia, por lo tanto, se aplican las leyes de derecho de autor predeterminadas, lo que implica que se conservaran todos los derechos del código fuente, y nadie puede reproducir, distribuir o crear trabajos a partir de este trabajo/codigó.
+
